@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Admin</author>
+  <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit</title>
+  <description>If you see this post it means that BlogEngine.NET is running and the hard part of creating your own </description>
+  <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu massa quis tortor tincidunt finibus. Pellentesque quis interdum dui. Nunc dolor dui, sodales ac velit consectetur, pretium molestie massa. Nam eget odio a ex cursus finibus eu a nunc. Cras sed porttitor sem. Nullam semper a elit sed volutpat. Quisque nec tincidunt nulla. Nunc eleifend est non nulla feugiat, eget dignissim urna imperdiet. Nullam volutpat malesuada tortor id bibendum.&lt;/p&gt;
+&lt;p&gt;Quisque posuere fermentum dolor, nec interdum dolor egestas sed. Nam aliquam magna nec sem vulputate, ut bibendum ex dignissim. Vestibulum at tellus ornare, sollicitudin nisi id, tincidunt tortor. Etiam congue eleifend risus at egestas. Aliquam ac nisl ligula. Nulla pulvinar metus eget massa venenatis fringilla. Pellentesque quis consequat dolor.&lt;/p&gt;
+&lt;p&gt;Nullam eros lacus, fringilla ac ullamcorper non, laoreet et lectus. In efficitur imperdiet quam ac efficitur. Maecenas eu nunc erat. Nullam efficitur blandit augue, non rhoncus purus. Nunc luctus eget arcu at sodales. Donec pharetra auctor odio eu ullamcorper. Nullam ornare elit eu dapibus elementum. Nunc sit amet lectus consequat, interdum erat id, scelerisque eros. Pellentesque eget iaculis risus. Cras scelerisque mollis ornare.&lt;/p&gt;
+&lt;p&gt;Praesent aliquet tincidunt mattis. Vivamus a bibendum ante. Praesent semper luctus cursus. Praesent interdum eros id leo placerat, at malesuada nisi pharetra. Suspendisse potenti. Proin eu tempor metus, id sodales ex. Donec consectetur lacus quis maximus aliquam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras rutrum cursus enim non placerat. Fusce sagittis sollicitudin efficitur. Aenean accumsan ligula lorem, eu molestie ante aliquam a. Praesent vehicula dignissim elit, quis vehicula elit tempor interdum. Fusce molestie nisl enim, id pulvinar nibh consectetur at. Duis efficitur, mauris non laoreet cursus, ex dui luctus ex, vitae gravida felis dui vel nisi. Mauris hendrerit in purus quis blandit. Vestibulum ultrices magna sed tortor posuere ultricies.&lt;/p&gt;</content>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2015-09-23 20:04:00</pubDate>
+  <lastModified>2015-09-23 21:07:50</lastModified>
+  <raters>0</raters>
+  <rating>0</rating>
+  <slug>welcome-to-blogengine-net</slug>
+  <tags>
+    <tag>welcome</tag>
+    <tag>blog</tag>
+  </tags>
+  <comments>
+    <comment id="61c640cb-7782-4a1d-ab79-25bd4613fc4e" parentid="00000000-0000-0000-0000-000000000000" approved="True" spam="False" deleted="False">
+      <date>2015-09-23 21:01:16</date>
+      <author>Visitor1</author>
+      <email>v1@us.com</email>
+      <country />
+      <ip>::1</ip>
+      <moderatedby>Rule:authenticated</moderatedby>
+      <avatar />
+      <content>Comment left by visitor1.</content>
+    </comment>
+    <comment id="7a5eac3e-0964-45dd-9b47-6914544450e0" parentid="61c640cb-7782-4a1d-ab79-25bd4613fc4e" approved="False" spam="False" deleted="False">
+      <date>2015-09-23 21:05:26</date>
+      <author>Visitor2</author>
+      <email>v2@us.com</email>
+      <country />
+      <ip>::1</ip>
+      <moderatedby>Rule:authenticated</moderatedby>
+      <avatar />
+      <content>Reply from visitor2 on comment by visitor1.</content>
+    </comment>
+  </comments>
+  <categories>
+    <category>c223353c-1aef-4a46-afd1-cb61ab1a792d</category>
+    <category>19770e74-9ec9-4cde-b2ab-e5051aaaf348</category>
+  </categories>
+  <notifications />
+</post>
