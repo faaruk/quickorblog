@@ -22,14 +22,11 @@
     <form id="Form1" runat="server">
         <div class="account">
             <div class="account-header text-center">
-                <a href="http://dotnetblogengine.net/" target="_blank">
-                    <%--<img alt="BlogEngine.NET" src="../Content/images/blog/logo.png" />--%>
-
-                </a>
+                <img alt="BlogEngine.NET" src="../Content/images/blog/logo.jpg" />
             </div>
-             <div id="StatusBox">
-                    <div id="AdminStatus" runat="server" style="display: none"></div>
-                </div>
+            <div id="StatusBox">
+                <div id="AdminStatus" runat="server" style="display: none"></div>
+            </div>
             <div class="account-box">
                 <asp:ContentPlaceHolder ID="MainContent" runat="server" />
             </div>
