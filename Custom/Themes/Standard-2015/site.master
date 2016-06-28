@@ -77,16 +77,16 @@
                         <h3><%=BlogSettings.Instance.Description %></h3>
                     </hgroup>
                     <div id="social-icons" class="pull-right social-icon">
-                        <a href="https://facebook.com/[CUSTOMFIELD|THEME|Standard-2015|Facebook account|BlogEngine.NET/]">
+                        <a target="_blank" href="https://facebook.com/[CUSTOMFIELD|THEME|Standard-2015|Facebook account|BlogEngine.NET/]">
                             <img src="~/Custom/Themes/Standard-2015/images/facebook.png" runat="server" />
                         </a>
-                        <a href="https://twitter.com/[CUSTOMFIELD|THEME|Standard-2015|Twitter account|blogenginenet/]">
+                        <a target="_blank" href="https://twitter.com/[CUSTOMFIELD|THEME|Standard-2015|Twitter account|blogenginenet/]">
                             <img src="~/Custom/Themes/Standard-2015/images/twitter.png" runat="server" />
                         </a>
-                        <a href="https://plus.google.com/[CUSTOMFIELD|THEME|Standard-2015|Google plus|u/0/]">
+                        <a target="_blank" href="https://plus.google.com/[CUSTOMFIELD|THEME|Standard-2015|Google plus|u/0/]">
                             <img src="~/Custom/Themes/Standard-2015/images/googleplus.png" runat="server" />
                         </a>
-                        <a href="<%=Utils.FeedUrl %>">
+                        <a target="_blank" href="<%=Utils.FeedUrl %>">
                             <img src="~/Custom/Themes/Standard-2015/images/rss.png" runat="server" />
                         </a>
                     </div>
