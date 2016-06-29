@@ -83,11 +83,14 @@
                         <a target="_blank" href="https://twitter.com/[CUSTOMFIELD|THEME|Standard-2015|Twitter account|blogenginenet/]">
                             <img src="~/Custom/Themes/Standard-2015/images/twitter.png" runat="server" />
                         </a>
+                        <a target="_blank" href="https://www.youtube.com/channel/UCXdYdqdJ8C0iq-c5p_l5pzg">
+                            <img src="~/Custom/Themes/Standard-2015/images/youtube.png" runat="server" />
+                        </a>
                         <a target="_blank" href="https://plus.google.com/[CUSTOMFIELD|THEME|Standard-2015|Google plus|u/0/]">
                             <img src="~/Custom/Themes/Standard-2015/images/googleplus.png" runat="server" />
                         </a>
-                        <a target="_blank" href="https://www.youtube.com/channel/UCXdYdqdJ8C0iq-c5p_l5pzg">
-                            <img src="~/Custom/Themes/Standard-2015/images/youtube.png" runat="server" />
+                        <a target="_blank" href="https://www.linkedin.com/company/korpack">
+                            <img src="~/Custom/Themes/Standard-2015/images/LinkedIn.png" runat="server" />
                         </a>
                         <a target="_blank" href="<%=Utils.FeedUrl %>">
                             <img src="~/Custom/Themes/Standard-2015/images/rss.png" runat="server" />
